@@ -1,3 +1,7 @@
+## EX-06
+## DATE: 1.11.23
+
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
